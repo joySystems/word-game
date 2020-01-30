@@ -1,0 +1,55 @@
+* {
+    padding : 0;
+    margin : 0;
+}
+
+body {
+    background : white;
+    color : black;
+    font-size:40px;
+    padding: 5%;
+}
+
+h1 {
+     margin: 0 auto;
+     text-align: center;
+     font-size : 70px;
+	}
+	
+	hr {
+		margin: 50px 0;
+		
+		}
+		
+div.desc {
+	margin: 50px auto;
+	
+	
+	}
+
+div.timer{
+margin: 50px auto;
+
+
+}		
+	
+button {
+	margin: 40px auto;
+width: 280px;
+height: 90px;
+background-color: blue;
+font-size: 40px;
+color: white;
+
+}	
+
+input {
+	margin: 40px auto;
+	width: 50%;
+	height: 50px;
+	font-size: 40px;
+	border: 5px solid black;
+	padding: 20px;
+	
+	
+	}
